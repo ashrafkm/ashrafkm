@@ -32,12 +32,12 @@ const ashraf = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
+        backEnd: ["NodeJs", "NestJs" "ExpressJs", "Python"],
+        fronEnd: ["Flutter"],
+        mobileApp: ["Flutter"],
+        database: ["MongoDb","mySql"],
         serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
+        devOps: ["AWS"],
         misc: ["Firebase", "Socket.IO"]
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
